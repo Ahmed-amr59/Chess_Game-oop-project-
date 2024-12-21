@@ -1,2 +1,2 @@
-# Chess_Game-oop-project-
-Chess Game OOP project (Team 57) ,(Computer Science Ain Shams),2024 
+# Chess_Game-oop-project-with Java
+Chess Game OOP project (Team 57) ,(Second Year),(Computer Science Ain Shams),2024 
